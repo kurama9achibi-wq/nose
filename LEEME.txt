@@ -1,0 +1,5 @@
+tu_DINERO - paquete PWA
+Sube TODO el contenido de esta carpeta (no el .zip) a la raiz de tu repositorio de GitHub:
+index.html, manifest.webmanifest, sw.js y la carpeta icons.
+Luego activa GitHub Pages en Settings > Pages (rama main, carpeta /root).
+Para actualizar la app, sube los archivos nuevos reemplazando los anteriores.
